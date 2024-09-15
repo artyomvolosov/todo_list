@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-e15cecabe47b7239d19a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "todo_list",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "todo_list::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-todo_list-Debug-e585dbdd35979c8959f1.json",
+					"name" : "todo_list",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "todo_list_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-todo_list_autogen-Debug-2c1e0a78c01302a68455.json",
+					"name" : "todo_list_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "todo_list_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-todo_list_autogen_timestamp_deps-Debug-45345c123bcfb155318e.json",
+					"name" : "todo_list_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/a.volosov/todo_list/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug",
+		"source" : "C:/Users/a.volosov/todo_list"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

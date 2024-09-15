@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Release-3e0ca582ba7b6c00f729.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "todo_list",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "todo_list::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-todo_list-Release-7bffec203065d0051754.json",
+					"name" : "todo_list",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "todo_list_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-todo_list_autogen-Release-5146b1121620cf890589.json",
+					"name" : "todo_list_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "todo_list_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-todo_list_autogen_timestamp_deps-Release-fedb93ca5858957fcc8c.json",
+					"name" : "todo_list_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Artem/Downloads/Telegram Desktop/todo_list (4)/todo_list/build/Desktop_Qt_6_7_1_MinGW_64_bit-Release",
+		"source" : "C:/Users/Artem/Downloads/Telegram Desktop/todo_list (4)/todo_list"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

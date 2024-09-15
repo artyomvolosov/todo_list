@@ -1,0 +1,54 @@
+# ninja log v6
+7	77	7481376149792901	todo_list_autogen/timestamp	f2a1c0f28be705d
+7	77	7481376149792901	todo_list_autogen/mocs_compilation.cpp	f2a1c0f28be705d
+7	77	7481376149792901	C:/Users/Artem/Downloads/Telegram Desktop/todo_list (4)/todo_list/build/Desktop_Qt_6_7_1_MinGW_64_bit-Release/todo_list_autogen/timestamp	f2a1c0f28be705d
+7	77	7481376149792901	C:/Users/Artem/Downloads/Telegram Desktop/todo_list (4)/todo_list/build/Desktop_Qt_6_7_1_MinGW_64_bit-Release/todo_list_autogen/mocs_compilation.cpp	f2a1c0f28be705d
+423	1816	7479472604618765	CMakeFiles/todo_list.dir/task.cpp.obj	e10c1f0016937c0c
+500	2949	7481373108706100	CMakeFiles/todo_list.dir/main.cpp.obj	4cdb9200127273bf
+499	2989	7481373108706100	CMakeFiles/todo_list.dir/todo_list_autogen/mocs_compilation.cpp.obj	c3046dd56b73b991
+78	2196	7481376150502249	CMakeFiles/todo_list.dir/taskadd.cpp.obj	1e17791327587d4a
+77	2259	7481376150492249	CMakeFiles/todo_list.dir/mainwindow.cpp.obj	9e5a6c2beb45861
+2259	2363	7481376172307906	todo_list.exe	1fa50f0c2f64473d
+79	2048	7481376150512254	CMakeFiles/todo_list.dir/descriptchanger.cpp.obj	efdd5fb3daea69d0
+8	550	7481382043987566	todo_list_autogen/timestamp	f2a1c0f28be705d
+8	550	7481382043987566	todo_list_autogen/mocs_compilation.cpp	f2a1c0f28be705d
+8	550	7481382043987566	C:/Users/Artem/Downloads/Telegram Desktop/todo_list (4)/todo_list/build/Desktop_Qt_6_7_1_MinGW_64_bit-Release/todo_list_autogen/timestamp	f2a1c0f28be705d
+8	550	7481382043987566	C:/Users/Artem/Downloads/Telegram Desktop/todo_list (4)/todo_list/build/Desktop_Qt_6_7_1_MinGW_64_bit-Release/todo_list_autogen/mocs_compilation.cpp	f2a1c0f28be705d
+555	3694	7481382044507568	CMakeFiles/todo_list.dir/datechanger.cpp.obj	b1654a53704c03f8
+550	3701	7481382044457597	CMakeFiles/todo_list.dir/todo_list_autogen/mocs_compilation.cpp.obj	c3046dd56b73b991
+552	3706	7481382044467596	CMakeFiles/todo_list.dir/main.cpp.obj	4cdb9200127273bf
+554	3881	7481382044497571	CMakeFiles/todo_list.dir/descriptchanger.cpp.obj	efdd5fb3daea69d0
+553	3991	7481382044487598	CMakeFiles/todo_list.dir/taskadd.cpp.obj	1e17791327587d4a
+553	3993	7481382044477597	CMakeFiles/todo_list.dir/mainwindow.cpp.obj	9e5a6c2beb45861
+3993	4135	7481382078880604	todo_list.exe	9ac71d2c8aa9c1e6
+8	86	7481382579879827	todo_list_autogen/timestamp	f2a1c0f28be705d
+8	86	7481382579879827	todo_list_autogen/mocs_compilation.cpp	f2a1c0f28be705d
+8	86	7481382579879827	C:/Users/Artem/Downloads/Telegram Desktop/todo_list (4)/todo_list/build/Desktop_Qt_6_7_1_MinGW_64_bit-Release/todo_list_autogen/timestamp	f2a1c0f28be705d
+8	86	7481382579879827	C:/Users/Artem/Downloads/Telegram Desktop/todo_list (4)/todo_list/build/Desktop_Qt_6_7_1_MinGW_64_bit-Release/todo_list_autogen/mocs_compilation.cpp	f2a1c0f28be705d
+88	2443	7481382580679850	CMakeFiles/todo_list.dir/datechanger.cpp.obj	b1654a53704c03f8
+87	2555	7481382580679850	CMakeFiles/todo_list.dir/descriptchanger.cpp.obj	efdd5fb3daea69d0
+87	2570	7481382580669855	CMakeFiles/todo_list.dir/taskadd.cpp.obj	1e17791327587d4a
+86	2688	7481382580659849	CMakeFiles/todo_list.dir/mainwindow.cpp.obj	9e5a6c2beb45861
+2688	2796	7481382606680179	todo_list.exe	9ac71d2c8aa9c1e6
+8	497	7481392589319444	todo_list_autogen/timestamp	f2a1c0f28be705d
+8	497	7481392589319444	todo_list_autogen/mocs_compilation.cpp	f2a1c0f28be705d
+8	497	7481392589319444	C:/Users/Artem/Downloads/Telegram Desktop/todo_list (4)/todo_list/build/Desktop_Qt_6_7_1_MinGW_64_bit-Release/todo_list_autogen/timestamp	f2a1c0f28be705d
+8	497	7481392589319444	C:/Users/Artem/Downloads/Telegram Desktop/todo_list (4)/todo_list/build/Desktop_Qt_6_7_1_MinGW_64_bit-Release/todo_list_autogen/mocs_compilation.cpp	f2a1c0f28be705d
+499	3338	7481392589789418	CMakeFiles/todo_list.dir/main.cpp.obj	4cdb9200127273bf
+498	3470	7481392589779418	CMakeFiles/todo_list.dir/todo_list_autogen/mocs_compilation.cpp.obj	c3046dd56b73b991
+501	3542	7481392589809416	CMakeFiles/todo_list.dir/datechanger.cpp.obj	b1654a53704c03f8
+500	3601	7481392589809416	CMakeFiles/todo_list.dir/descriptchanger.cpp.obj	efdd5fb3daea69d0
+500	3711	7481392589799427	CMakeFiles/todo_list.dir/taskadd.cpp.obj	1e17791327587d4a
+499	3865	7481392589789418	CMakeFiles/todo_list.dir/mainwindow.cpp.obj	9e5a6c2beb45861
+3866	3971	7481392623457614	todo_list.exe	9ac71d2c8aa9c1e6
+12	426	7481394651131279	todo_list_autogen/timestamp	f2a1c0f28be705d
+12	426	7481394651131279	todo_list_autogen/mocs_compilation.cpp	f2a1c0f28be705d
+12	426	7481394651131279	C:/Users/Artem/Downloads/Telegram Desktop/todo_list (4)/todo_list/build/Desktop_Qt_6_7_1_MinGW_64_bit-Release/todo_list_autogen/timestamp	f2a1c0f28be705d
+12	426	7481394651131279	C:/Users/Artem/Downloads/Telegram Desktop/todo_list (4)/todo_list/build/Desktop_Qt_6_7_1_MinGW_64_bit-Release/todo_list_autogen/mocs_compilation.cpp	f2a1c0f28be705d
+428	2354	7481394651511300	CMakeFiles/todo_list.dir/main.cpp.obj	4cdb9200127273bf
+427	2356	7481394651501291	CMakeFiles/todo_list.dir/todo_list_autogen/mocs_compilation.cpp.obj	c3046dd56b73b991
+430	2448	7481394651531292	CMakeFiles/todo_list.dir/datechanger.cpp.obj	b1654a53704c03f8
+430	2484	7481394651531292	CMakeFiles/todo_list.dir/descriptchanger.cpp.obj	efdd5fb3daea69d0
+429	2601	7481394651521290	CMakeFiles/todo_list.dir/taskadd.cpp.obj	1e17791327587d4a
+428	2723	7481394651511300	CMakeFiles/todo_list.dir/mainwindow.cpp.obj	9e5a6c2beb45861
+2723	2833	7481394674464465	todo_list.exe	9ac71d2c8aa9c1e6
